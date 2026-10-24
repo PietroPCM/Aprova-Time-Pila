@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "createdAt": "2026-10-24T16:31:58.119Z",
+        "reason": "Aprova product uses Inter (computed font-family observed read-only in modelo.aprova.com.br); user asked not to swap fonts just to satisfy the plugin"
+      }
+    ]
+  }
+}

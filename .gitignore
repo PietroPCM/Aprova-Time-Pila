@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.next-build/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.data/
+.DS_Store
+npm-debug.log*
+.playwright-mcp/
