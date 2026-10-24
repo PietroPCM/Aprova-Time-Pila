@@ -4,7 +4,7 @@
 
 > *“Como coletar e validar a regra de negócio de ~100 processos sem depender de reunião?”*
 
-**Demo publicada:** __VERCEL_URL__
+**Demo publicada:** https://aprova-valida.vercel.app
 
 ![Validação guiada](docs/prints/03-prefeitura-validacao-secao.png)
 

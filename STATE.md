@@ -62,6 +62,10 @@ Next.js 15 (App Router) · TypeScript · Zod · OpenAI server-side (`OPENAI_MODE
 - Transcrição nunca mostra o prompt de vocabulário (eco descartado); só fala nova é evidência; dedupe semântico; contadores "confirmados · sugestões · pendentes".
 - Logo no canto superior esquerdo.
 
+## Entrega
+- Produção: https://aprova-valida.vercel.app (Vercel). Next.js 15.5.28 (corrige vulnerabilidade bloqueada pela Vercel).
+- E2E em contexto limpo na URL publicada: 23/23 PASS.
+
 ## Bloqueios / riscos
 - Latência da IA ~6–10 s por passo (spinner na UI). Se a API cair, fallback offline rotulado mantém a demo.
 - Captura de microfone real só testada com dispositivo de áudio falso do Playwright; precisa de teste com microfone no Chrome do apresentador (permissão do navegador).
